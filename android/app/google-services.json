@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873954599219",
+    "project_id": "laporbook-9130e",
+    "storage_bucket": "laporbook-9130e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873954599219:android:5b62d042af0dbc28b75e46",
+        "android_client_info": {
+          "package_name": "com.example.lapor_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2quuhVEgPjv3UagmoP3WlkF0lVzEvB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
